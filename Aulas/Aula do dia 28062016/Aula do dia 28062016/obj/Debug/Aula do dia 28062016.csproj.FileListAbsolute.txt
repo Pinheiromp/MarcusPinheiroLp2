@@ -1,0 +1,6 @@
+c:\users\alunoct\documents\visual studio 2013\Projects\Aula do dia 28062016\Aula do dia 28062016\bin\Debug\Aula do dia 28062016.exe.config
+c:\users\alunoct\documents\visual studio 2013\Projects\Aula do dia 28062016\Aula do dia 28062016\obj\Debug\Aula do dia 28062016.csprojResolveAssemblyReference.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\Aula do dia 28062016\Aula do dia 28062016\bin\Debug\Aula do dia 28062016.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\Aula do dia 28062016\Aula do dia 28062016\bin\Debug\Aula do dia 28062016.pdb
+c:\users\alunoct\documents\visual studio 2013\Projects\Aula do dia 28062016\Aula do dia 28062016\obj\Debug\Aula do dia 28062016.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\Aula do dia 28062016\Aula do dia 28062016\obj\Debug\Aula do dia 28062016.pdb
